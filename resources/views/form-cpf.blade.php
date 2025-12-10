@@ -5,8 +5,8 @@
     <link rel="icon" href="/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vite App</title>
-    <script type="module" crossorigin src="/assets/index-B4-vOTTk.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-B7GN4Ll4.css">
+    <script type="module" crossorigin src="/assets/index-CTqzoeOG.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DOvgxJ0E.css">
   </head>
   <body>
     <div id="app"></div>
